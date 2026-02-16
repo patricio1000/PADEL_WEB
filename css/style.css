@@ -62,3 +62,9 @@ h1 {
 * {
   font-family: opensans, sans-serif;
 }
+
+@media (max-width: 600px) {
+  body {
+    font-size: 12px;
+  }
+}
